@@ -111,4 +111,4 @@ You’ve now successfully joined the Semaphore Trusted Setup Ceremony.
 Your small randomness contribution helps build a censorship-resistant, anonymous future.
 
 ## Optional:
-	Share your participation on X or other platforms
+Share your participation on X or other platforms
