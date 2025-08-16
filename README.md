@@ -112,3 +112,5 @@ Your small randomness contribution helps build a censorship-resistant, anonymous
 
 ## Optional:
 Share your participation on X or other platforms
+
+https://x.com/Jrken_ny
