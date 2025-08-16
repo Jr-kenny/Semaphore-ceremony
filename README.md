@@ -1,5 +1,8 @@
 # Semaphore-ceremony
 ## guide to participate in Semaphore trusted ceremony setup
+
+<img width="680" height="358" alt="image" src="https://github.com/user-attachments/assets/3d09406d-18c6-4a94-a720-7bc5b6726298" />
+
 Semaphore is a zero-knowledge protocol that allows people to prove things anonymously.
 To make it work securely, the project runs a Trusted Setup Ceremony.
 
